@@ -1,0 +1,29 @@
+{
+  "name": "task-tracker",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Task Tracker is a web application that helps users to manage their tasks. It allows users to create, edit, and delete tasks, as well as set due dates and priorities. Task Tracker also provides a variety of features to help users track their progress, such as a task list, a calendar, and a notification system.",
+  "author": {
+    "name": "Christian Maccarino"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "4.2.3",
+    "typescript": "5.0.2",
+    "vite": "4.4.5",
+    "vue-tsc": "1.8.5"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhrixTain/task-tracker.git"
+  }
+}
