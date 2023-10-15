@@ -25,5 +25,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/KhrixTain/task-tracker.git"
-  }
+  },
+  "types": "types/index.d.ts"
 }
